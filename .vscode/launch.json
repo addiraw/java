@@ -1,0 +1,65 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TagFinder",
+            "request": "launch",
+            "mainClass": "TagFinder",
+            "projectName": "java_101a9a79"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FindGeneSimpleAndTest",
+            "request": "launch",
+            "mainClass": "FindGeneSimpleAndTest",
+            "projectName": "java_101a9a79"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - project",
+            "request": "launch",
+            "mainClass": "project",
+            "projectName": "java_101a9a79"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "java_101a9a79"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Swing_example",
+            "request": "launch",
+            "mainClass": "Swing_example",
+            "projectName": "java_101a9a79"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test1",
+            "request": "launch",
+            "mainClass": "test1",
+            "projectName": "java_101a9a79"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyClass",
+            "request": "launch",
+            "mainClass": "MyClass",
+            "projectName": "java_101a9a79"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hello",
+            "request": "launch",
+            "mainClass": "hello"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - aditya",
+            "request": "launch",
+            "mainClass": "aditya"
+        }
+    ]
+}
